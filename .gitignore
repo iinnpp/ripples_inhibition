@@ -1,0 +1,10 @@
+# OS and IDE generated files
+.idea
+# jupyter notebook files
+.ipynb_checkpoints
+#run results
+brian_models/ripples_2populations_v2/runs/*
+brian_models/tests/HDF/
+brian_models/tests/logs/
+__pycache__/
+
